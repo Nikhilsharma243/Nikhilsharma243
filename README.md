@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikhilsharma243
+- 👋 Hi, I’m Nikhil Sharma
 - 👀 I’m interested in learning new skills.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on ...
